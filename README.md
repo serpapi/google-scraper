@@ -7,8 +7,8 @@ Plan: This is like the "gateway" for all Google scraper keywords we will cover i
 Scrape Google with a simple API. It includes Google Search, Google Maps, Google Shopping, and more!
 
 We return the results in a nice, structured JSON. No more parsing, coding, proxy, or other web scraping headaches for developers.
-<img width="1382" height="948" alt="Google Scraper Playground example" src="https://github.com/user-attachments/assets/aa91aea9-eaca-472e-9134-cf922caecfc2" />
 
+<img width="1382" height="948" alt="Google Scraper Playground example" src="https://github.com/user-attachments/assets/aa91aea9-eaca-472e-9134-cf922caecfc2" />
 
 ## How to scrape Google?
 
@@ -48,7 +48,52 @@ We provide different engines, like:
 - and more!
 
 ## Code examples
+Here are some code examples based on your favorite programming languages.
+
 ### Python Integration Example
+
+Preparation for accessing the SerpApi API in Python
+
+- Create a new main.py file
+- Install [requests package](https://pypi.org/project/requests/) with:
+```
+pip install requests
+```
+
+Here is what the basic setup looks like:
+
+```
+import requests
+SERPAPI_API_KEY = "YOUR_REAL_SERPAPI_API_KEY"
+
+params = {
+    "api_key": SERPAPI_API_KEY, #replace with your real API Key
+    # soon
+}
+
+search = requests.get("https://serpapi.com/search", params=params)
+response = search.json()
+print(response)
+```
+
+With these few lines of code, we can access all of the search engines available at SerpApi, including the Google Search API.
+
+Here is how to scrape "Google Search" results.
+```
+import requests
+SERPAPI_API_KEY = "YOUR_SERPAPI_API_KEY"
+
+params = {
+    "api_key": SERPAPI_API_KEY, 
+    "engine": "google",
+    "q": "coffee"
+}
+
+search = requests.get("https://serpapi.com/search", params=params)
+response = search.json()
+print(response)
+```
+
 ### JavaScript Integration Example
 ### rest of the integrations..
 
@@ -60,10 +105,15 @@ for advanced usages
 ## Video tutorial
 ...
 
-## Nocode tutorial
-...
+## Nocode method
+We also offer no-code solutions for scraping Google.
+
+- [NoCodeSerpApi](https://nocodeserpapi.com/)
+- [n8n X SerpApi](https://serpapi.com/blog/tag/n8n/)
+- [Make X SerpApi](https://serpapi.com/blog/tag/make/)
+- [and more integrations](https://github.com/serpapi/serpapi-integrations/)
 
 ## Contacts
-...
+Feel free to reach out via `contact@serpapi.com`.
 
 
