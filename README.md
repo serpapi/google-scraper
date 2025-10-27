@@ -1,6 +1,3 @@
-Status: Work in Progress. Part of: https://github.com/serpapi/SerpApi/issues/4218
-Plan: This is like the "gateway" for all Google scraper keywords we will cover in the future.
-
 <img width="950" height="300" alt="Google Scraper tool" src="https://github.com/user-attachments/assets/7ac3e726-4ff9-424e-808b-f8f6816888ab" />
 
 # Google Scraper
@@ -95,7 +92,27 @@ print(response)
 ```
 
 ### JavaScript Integration Example
-### rest of the integrations..
+
+Install the [SerpApi JavaScript package](https://github.com/serpapi/serpapi-javascript):
+```
+npm install serpapi
+```
+
+Run a basic query:
+
+```
+const { getJson } = require("serpapi");
+getJson({
+  api_key: API_KEY, // Put your API Key
+  engine: "google",
+  q: "coffee"
+}, (json) => {
+  console.log(json["organic_results"]);
+});
+```
+
+### Other Programming Languages
+While you can use our APIs using a simple GET request with any programming language, you can also see our ready-to-use libraries here: [SerpApi Integrations](https://serpapi.com/integrations?utm_source=github_google_scraper).
 
 ## Blog tutorial 
 for advanced usages
