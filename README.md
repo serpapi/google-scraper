@@ -6,6 +6,10 @@ Plan: This is like the "gateway" for all Google scraper keywords we will cover i
 # Google Scraper
 Scrape Google with a simple API. It includes Google Search, Google Maps, Google Shopping, and more!
 
+We return the results in a nice, structured JSON. No more parsing, coding, proxy, or other web scraping headaches for developers.
+<img width="1382" height="948" alt="Google Scraper Playground example" src="https://github.com/user-attachments/assets/aa91aea9-eaca-472e-9134-cf922caecfc2" />
+
+
 ## How to scrape Google?
 
 Using a simple GET request, you can access all Google search engine results:
