@@ -1,4 +1,4 @@
-<img width="950" height="300" alt="Google Scraper tool" src="https://github.com/user-attachments/assets/7ac3e726-4ff9-424e-808b-f8f6816888ab" />
+[<img width="950" height="300" alt="Google Scraper tool" src="https://github.com/user-attachments/assets/7ac3e726-4ff9-424e-808b-f8f6816888ab" />](https://serpapi.com?utm_source=github_google_scraper)
 
 # Google Scraper
 Scrape Google with a simple API. It includes Google Search, Google Maps, Google Shopping, and more!
