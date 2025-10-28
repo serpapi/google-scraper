@@ -24,7 +24,7 @@ https://serpapi.com/search.json?q=Coffee&engine=google&api_key=YOUR_API_KEY
 
 We provide different engines, like:
 - Google Search API
-- Google Maps API
+- [Google Maps API](https://serpapi.com/google-maps-api?utm_source=github_google_scraper) || [Google Maps Scraper](https://github.com/serpapi/google-maps-scraper)
 - Google Shopping API
 - Google Images API
 - Google Videos API
@@ -62,7 +62,7 @@ pip install requests
 
 Step 3:  
 Add this code to your file:
-```
+``` py
 import requests
 SERPAPI_API_KEY = "YOUR_REAL_SERPAPI_API_KEY"
 
@@ -80,7 +80,7 @@ With these few lines of code, we can access all of the search engines available 
 
 Step 4:  
 Here is how to scrape "Google Search" results.
-```
+``` py
 import requests
 SERPAPI_API_KEY = "YOUR_SERPAPI_API_KEY"
 
@@ -108,7 +108,7 @@ Create a new `index.js` file. (You can name it whatever you want)
 
 Step 3:  
 Add this to your file for basic search:
-```
+``` js
 const { getJson } = require("serpapi");
 getJson({
   api_key: API_KEY, // Put your API Key
