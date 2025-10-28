@@ -51,14 +51,17 @@ Here are some code examples based on your favorite programming languages.
 
 Preparation for accessing the SerpApi API in Python
 
-- Create a new main.py file
-- Install [requests package](https://pypi.org/project/requests/) with:
+Step 1:  
+Create a new `main.py` file. (You can name it whatever you want)
+
+Step 2:  
+Install [requests package](https://pypi.org/project/requests/) with:
 ```
 pip install requests
 ```
 
-Here is what the basic setup looks like:
-
+Step 3:  
+Add this code to your file:
 ```
 import requests
 SERPAPI_API_KEY = "YOUR_REAL_SERPAPI_API_KEY"
@@ -75,6 +78,7 @@ print(response)
 
 With these few lines of code, we can access all of the search engines available at SerpApi, including the Google Search API.
 
+Step 4:  
 Here is how to scrape "Google Search" results.
 ```
 import requests
@@ -93,13 +97,17 @@ print(response)
 
 ### JavaScript Integration Example
 
+Step 1:  
 Install the [SerpApi JavaScript package](https://github.com/serpapi/serpapi-javascript):
 ```
 npm install serpapi
 ```
 
-Run a basic query:
+Step 2:  
+Create a new `index.js` file. (You can name it whatever you want)
 
+Step 3:  
+Add this to your file for basic search:
 ```
 const { getJson } = require("serpapi");
 getJson({
@@ -110,6 +118,8 @@ getJson({
   console.log(json["organic_results"]);
 });
 ```
+
+We're printing the `organic_results` from Google Search in this case.
 
 ### Other Programming Languages
 While you can use our APIs using a simple GET request with any programming language, you can also see our ready-to-use libraries here: [SerpApi Integrations](https://serpapi.com/integrations?utm_source=github_google_scraper).
