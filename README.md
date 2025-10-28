@@ -115,12 +115,22 @@ getJson({
 While you can use our APIs using a simple GET request with any programming language, you can also see our ready-to-use libraries here: [SerpApi Integrations](https://serpapi.com/integrations?utm_source=github_google_scraper).
 
 ## Blog tutorial 
-for advanced usages
-- pagination
-- ...
+- [How to Scrape Google Search Results (SERPs) - 2025 Ruby Guide](https://serpapi.com/blog/how-to-scrape-google-search-results-serps-2023-guide/)
+- [How to scrape Google search results with Python (2025 Tutorial)](https://serpapi.com/blog/how-to-scrape-google-search-results-with-python/)
+- [How to Scrape Google Search Results with Java](https://serpapi.com/blog/how-to-scrape-google-search-results/)
+- [Scrape Google Maps data and reviews using Python](https://serpapi.com/blog/scrape-google-maps-data-and-reviews-using-python/)
+- [How to Scrape Google Shopping Results](https://serpapi.com/blog/how-to-scrape-google-shopping-results/)
+- [How to Scrape Google Images Results](https://serpapi.com/blog/how-to-scrape-google-images-results/)
+- [How to Scrape Google Videos Results](https://serpapi.com/blog/how-to-scrape-google-videos-results/)
+- [Scraping Google news using Python (2025 Tutorial)](https://serpapi.com/blog/scraping-google-news-using-python-tutorial/)
 
 ## Video tutorial
-...
+- [Scrape Google Search results with Python](https://www.youtube.com/watch?v=-H9yN_jl4FQ)
+- [Scrape Google Search results with Javascript](https://www.youtube.com/watch?v=-7OAJlTRVXQ)
+- [Scrape Google Maps reviews data using Python](https://www.youtube.com/watch?v=naigldB0nTY)
+- [Web scraping Google Images with Python and simple API](https://www.youtube.com/watch?v=Y8RmgLb7ra0)
+- [Scraping Google News using Python (Simple API)](http://youtube.com/watch?v=Rx4WzglcDwI)
+- [Scrape Google Flights with simple API](https://www.youtube.com/watch?v=zqZSvuj7JMs)
 
 ## Nocode method
 We also offer no-code solutions for scraping Google.
