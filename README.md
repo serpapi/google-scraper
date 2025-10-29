@@ -47,7 +47,19 @@ We provide different engines, like:
 ## Code examples
 Here are some code examples based on your favorite programming languages.
 
-### Python Integration Example
+### Curl Integration
+
+```
+curl --get https://serpapi.com/search \
+ -d q="Coffee" \
+ -d location="Austin,+Texas,+United+States" \
+ -d hl="en" \
+ -d gl="us" \
+ -d google_domain="google.com" \
+ -d api_key="secret_api_key"
+```
+
+### Python Integration
 
 Preparation for accessing the SerpApi API in Python
 
@@ -95,7 +107,7 @@ response = search.json()
 print(response)
 ```
 
-### JavaScript Integration Example
+### JavaScript Integration
 
 Step 1:  
 Install the [SerpApi JavaScript package](https://github.com/serpapi/serpapi-javascript):
