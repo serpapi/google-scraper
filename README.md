@@ -47,7 +47,7 @@ We provide different engines, like:
 ## Code examples
 Here are some code examples based on your favorite programming languages.
 
-### Curl Integration
+### cURL Integration
 
 ```
 curl --get https://serpapi.com/search \
