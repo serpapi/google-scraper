@@ -25,6 +25,7 @@ https://serpapi.com/search.json?q=Coffee&engine=google&api_key=YOUR_API_KEY
 We provide different engines, like:
 - Google Search API
 - [Google Maps API](https://serpapi.com/google-maps-api?utm_source=github_google_scraper) || [Google Maps Scraper](https://github.com/serpapi/google-maps-scraper)
+- [Google Maps Reviews API](https://serpapi.com/google-maps-reviews-api?utm_source=github_google_scraper) || [Google Maps Reviews Scraper](https://github.com/serpapi/google-maps-reviews-scraper)
 - Google Shopping API
 - Google Images API
 - Google Videos API
