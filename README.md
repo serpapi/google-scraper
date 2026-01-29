@@ -34,8 +34,8 @@ We provide different engines, like:
 - Google Local API
 - Google Scholar API
 - Google Trends API
-- Google AI Overview API
-- [Google AI Mode API](https://serpapi.com/google-ai-mode-api?utm_source=github_google_scrape) || [Google AI Mode Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
+- [Google AI Overview API](https://serpapi.com/ai-overview?utm_source=github_google_scraper) || [Google AI Overview Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
+- [Google AI Mode API](https://serpapi.com/google-ai-mode-api?utm_source=github_google_scraper) || [Google AI Mode Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
 - Google Flights API
 - Google Lens API
 - Google Events API
