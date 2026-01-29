@@ -27,7 +27,7 @@ We provide different engines, like:
 - [Google Maps API](https://serpapi.com/google-maps-api?utm_source=github_google_scraper) || [Google Maps Scraper](https://github.com/serpapi/google-maps-scraper)
 - [Google Maps Reviews API](https://serpapi.com/google-maps-reviews-api?utm_source=github_google_scraper) || [Google Maps Reviews Scraper](https://github.com/serpapi/google-maps-reviews-scraper)
 - Google Shopping API
-- Google Images API
+- [Google Images API](https://serpapi.com/google-images-api?utm_source=github_google_scraper) || [Google Image Scraper](https://github.com/serpapi/google-image-scraper)
 - Google Videos API
 - Google News API
 - Google Autocomplete API
