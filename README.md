@@ -37,7 +37,7 @@ We provide different engines, like:
 - [Google AI Overview API](https://serpapi.com/ai-overview?utm_source=github_google_scraper) || [Google AI Overview Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
 - [Google AI Mode API](https://serpapi.com/google-ai-mode-api?utm_source=github_google_scraper) || [Google AI Mode Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
 - Google Flights API
-- Google Lens API
+- [Google Lens API](https://serpapi.com/google-lens-api?utm_source=github_google_scraper) || [Google Lens API scraper](https://github.com/serpapi/google-lens-scraper)
 - Google Events API
 - Google Hotels API
 - Google Reverse Image API
