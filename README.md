@@ -29,7 +29,7 @@ We provide different engines, like:
 - Google Shopping API
 - [Google Images API](https://serpapi.com/google-images-api?utm_source=github_google_scraper) || [Google Image Scraper](https://github.com/serpapi/google-image-scraper)
 - Google Videos API
-- Google News API
+- [Google News API](https://serpapi.com/google-news-api?utm_source=github_google_scraper) || [Google News Scraper](https://github.com/serpapi/google-news-scraper/)
 - Google Autocomplete API
 - Google Local API
 - Google Scholar API
