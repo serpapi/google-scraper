@@ -32,7 +32,7 @@ We provide different engines, like:
 - [Google News API](https://serpapi.com/google-news-api?utm_source=github_google_scraper) || [Google News Scraper](https://github.com/serpapi/google-news-scraper/)
 - Google Autocomplete API
 - Google Local API
-- Google Scholar API
+- [Google Scholar API](https://serpapi.com/google-scholar-api?utm_source=github_google_scraper) || [Google Scholar Scraper](https://github.com/serpapi/google-scholar-scraper)
 - Google Trends API
 - [Google AI Overview API](https://serpapi.com/ai-overview?utm_source=github_google_scraper) || [Google AI Overview Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
 - [Google AI Mode API](https://serpapi.com/google-ai-mode-api?utm_source=github_google_scraper) || [Google AI Mode Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
