@@ -3,7 +3,7 @@
 # Google Scraper
 Scrape Google with a simple API. It includes Google Search, Google Maps, Google Shopping, and more!
 
-We return the results in a nice, structured JSON. No more parsing, coding, proxy, or other web scraping headaches for developers.
+We return the results in a nice, structured JSON (or Makrdown). No more parsing, coding, proxy, or other web scraping headaches for developers.
 
 <img width="1382" height="948" alt="Google Scraper Playground example" src="https://github.com/user-attachments/assets/aa91aea9-eaca-472e-9134-cf922caecfc2" />
 
@@ -26,17 +26,18 @@ We provide different engines, like:
 - Google Search API
 - [Google Maps API](https://serpapi.com/google-maps-api?utm_source=github_google_scraper) || [Google Maps Scraper](https://github.com/serpapi/google-maps-scraper)
 - [Google Maps Reviews API](https://serpapi.com/google-maps-reviews-api?utm_source=github_google_scraper) || [Google Maps Reviews Scraper](https://github.com/serpapi/google-maps-reviews-scraper)
-- Google Shopping API
+- [Google Shopping API](https://serpapi.com/google-shopping-api?utm_source=github_google_scraper) || [Google Shopping Scraper](https://github.com/serpapi/google-shopping-scraper)
 - [Google Images API](https://serpapi.com/google-images-api?utm_source=github_google_scraper) || [Google Image Scraper](https://github.com/serpapi/google-image-scraper)
 - Google Videos API
 - [Google News API](https://serpapi.com/google-news-api?utm_source=github_google_scraper) || [Google News Scraper](https://github.com/serpapi/google-news-scraper/)
 - Google Autocomplete API
-- Google Local API
+- [Google Local API](https://serpapi.com/google-local-api?utm_source=github_google_scraper) || [Google Local Scraper](https://github.com/serpapi/google-local-scraper/)
+- [Google Jobs API](https://serpapi.com/google-jobs-api?utm_source=github_google_scraper) || [Google Jobs Scraper](https://github.com/serpapi/google-jobs-scraper/)
 - [Google Scholar API](https://serpapi.com/google-scholar-api?utm_source=github_google_scraper) || [Google Scholar Scraper](https://github.com/serpapi/google-scholar-scraper)
-- Google Trends API
+- [Google Trends API](https://serpapi.com/google-trends-api?utm_source=github_google_scraper) || [Google Trends Scraper](https://github.com/serpapi/google-trends-scraper)
 - [Google AI Overview API](https://serpapi.com/ai-overview?utm_source=github_google_scraper) || [Google AI Overview Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
 - [Google AI Mode API](https://serpapi.com/google-ai-mode-api?utm_source=github_google_scraper) || [Google AI Mode Scraper](https://github.com/serpapi/Google-AI-Mode-Scraper)
-- Google Flights API
+- [Google Flights API](https://serpapi.com/google-flights-api?utm_source=github_google_scraper) || [Google Flights Scraper](https://github.com/serpapi/google-flights-scraper)
 - [Google Lens API](https://serpapi.com/google-lens-api?utm_source=github_google_scraper) || [Google Lens API scraper](https://github.com/serpapi/google-lens-scraper)
 - Google Events API
 - Google Hotels API
